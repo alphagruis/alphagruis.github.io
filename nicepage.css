@@ -35799,36 +35799,22 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
-.u-header .u-menu-1 {
-  font-family: size-14;
-  margin: -48px calc(((100% - 1140px) / 2)) 0 auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-}
-
-.u-header .u-sidenav-1 {
-  padding: 0;
-}
-
-.u-header .u-line-1 {
-  transform-origin: right center 0px;
-  width: calc(((100% - 1140px) / 2) + 1070px);
-  height: 1px;
-  margin: 28px 0 0 auto;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1rem;
-}
-
 .u-header .u-text-1 {
   animation-duration: 1000ms;
   font-size: 1.5rem;
   font-weight: 700;
   width: 200px;
-  margin: -38px auto 0;
+  margin: -51px auto 0;
+}
+
+.u-header .u-menu-1 {
+  margin: -35px calc(((100% - 1140px) / 2)) 0 auto;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1rem;
+  width: 208px;
+  margin: 20px auto 0;
 }
 
 .u-header .u-line-1 {
@@ -35844,12 +35830,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-right: calc(((100% - 940px) / 2));
-  }
-
-  .u-header .u-line-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 
   .u-header .u-line-1 {

@@ -57,17 +57,17 @@
   margin: 0;
 }
 
-.u-section-2 .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  margin: 29px auto 0;
-  padding: 0;
-}
-
 .u-section-2 .u-icon-1 {
   width: 32px;
   height: 32px;
+  margin: 29px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  border-style: none none solid;
   margin: 20px auto 30px;
+  padding: 0;
 }
 
 @media (max-width: 991px) {
