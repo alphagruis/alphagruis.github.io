@@ -4,6 +4,7 @@
   <img width="192" height="192" src="images/alphagruis.svg">
 </p>
 
+- https://alphagruis.github.io/
 - https://alphagruis.github.io/alphagruis.html
 - https://alphagruis.github.io/alphagruis-etc.html
 - https://alphagruis.github.io/alphagruis-eth.html
