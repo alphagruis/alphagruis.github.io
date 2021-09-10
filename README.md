@@ -20,6 +20,8 @@
   <img width="128" height="128" src="images/alphagruis-etc-logo.svg">
 </p>
 
+**alphagruis**'s Miner for **Ethereum Classic**, is a high performance and rock solid miner designed and implemented in C++, OpenCL and CUDA **from scratch** by the **alphagruis** team.
+
 #### GitHub repository:
 - https://github.com/alphagruis/alphagruis-etc
 > :small_red_triangle: *This repository is the **only** official source to download the mining software.*
@@ -31,6 +33,8 @@
   <img width="128" height="128" src="images/alphagruis-eth-logo.svg">
 </p>
 
+**alphagruis**'s Miner for **Ethereum**, is a high performance and rock solid miner designed and implemented in C++, OpenCL and CUDA **from scratch** by the **alphagruis** team.
+
 #### GitHub repository:
 - https://github.com/alphagruis/alphagruis-eth
 > :small_red_triangle: *This repository is the **only** official source to download the mining software.*
@@ -41,6 +45,8 @@
   <img width="128" height="128" src="images/alphagruis-rvn.svg">
   <img width="128" height="128" src="images/alphagruis-rvn-logo.svg">
 </p>
+
+**alphagruis**'s Miner for **Ravencoin**, is a high performance and rock solid miner designed and implemented in C++, OpenCL and CUDA **from scratch** by the **alphagruis** team.
 
 #### GitHub repository:
 - https://github.com/alphagruis/alphagruis-rvn
